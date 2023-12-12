@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21552219421",
+    "project_id": "vista-kayla",
+    "storage_bucket": "vista-kayla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21552219421:android:74ef38fdddfb98c5ae0df4",
+        "android_client_info": {
+          "package_name": "com.example.vista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jpUPJMdH7YS6HNw0x_X6KogpDyIaiyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
